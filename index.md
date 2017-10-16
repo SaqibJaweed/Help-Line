@@ -14,6 +14,9 @@ Created [Gantt Chart](https://github.com/SaqibJaweed/Help-Line/blob/master/Gantt
 ### October 02, 2017
 Created [Budget](https://github.com/SaqibJaweed/Help-Line/blob/master/Budget.docx)
 ### October 10, 2017
+Hardware Parts bought from KIJIJI
+            1. Raspberry Pi 3 Module B Kit
+            2. Touch Screen Module
 ### October 45, 2017
 ### October 66, 2017
 
