@@ -14,6 +14,6 @@ Created [Gantt Chart](https://github.com/SaqibJaweed/Help-Line/blob/master/Gantt
 ### October 02, 2017
 Created [Budget](https://github.com/SaqibJaweed/Help-Line/blob/master/Budget.docx)
 ### October 10, 2017
-### October
-### October
+### October 45, 2017
+### October 66, 2017
 
