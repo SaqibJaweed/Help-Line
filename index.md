@@ -7,7 +7,8 @@ The Idea:
 This project will let the user know His/Her position in line while he waits to get attention of a representative or an attendant.
 Users can also lookup a product in store and once they are done shopping, they can fill out an E-Survey.
 
-
+### November 28 2017
+Got my PCB Board tested by Vlad at the Prototype lab. It works Perfect!!!
 ### November 20 2017
 The Touch Screen is now Functional. Videos, Pictures and Build instructions comming soon.
 ### November 10 2017
