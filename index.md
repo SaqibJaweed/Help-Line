@@ -1,4 +1,4 @@
-Electronic Superstore Help-line
+TFT Display for Raspberry Pi 3
 ===============================
 
 The Idea:
