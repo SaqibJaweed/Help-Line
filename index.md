@@ -8,8 +8,10 @@ This project will let the user know His/Her position in line while he waits to g
 Users can also lookup a product in store and once they are done shopping, they can fill out an E-Survey.
 
 
-
-
+### November 20 2017
+The Touch Screen is now Functional. Videos, Pictures and Build instructions comming soon.
+### November 10 2017
+PCB Board made and sodered.
 ### October 10, 2017
 Hardware Parts bought from KIJIJI  
             1. Raspberry Pi 3 Module B Kit  
