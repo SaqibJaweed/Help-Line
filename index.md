@@ -4,8 +4,8 @@ Electronic Superstore Help-line
 The Idea:
 =========
 
-This project will let the user know His/Her position in line while he waits to get attention of a representative or an attendant.
-Users can also lookup a product in store and once they are done shopping, they can fill out an E-Survey.
+Touch Screen. This project will let the user know His/Her position in line while he waits to get attention of a representative or an attendant.
+Users can also lookup a product in store and once they are done shopping, they can fill out an E-Survey using a simple and interactive touch screen.
 
 ### November 28 2017
 Got my PCB Board tested by Vlad at the Prototype lab. It works Perfect!!!
