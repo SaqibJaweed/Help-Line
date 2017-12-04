@@ -30,9 +30,9 @@ PCB Board made and sodered.
 ### October 10, 2017
 Hardware Parts bought from KIJIJI  
             1. Raspberry Pi 3 Module B Kit  $30.00 <br>
-            2. 3.5'' Touch Screen Module by [adafruit.com](https://www.adafruit.com/product/2097)  $20.00
-![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Capture.PNG?raw=true "Screen Front View")
-![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Capture1.PNG?raw=true "Screen Rear View")
+            2. 3.5'' Touch Screen Module by [adafruit.com](https://www.adafruit.com/product/2097)  $20.00 <br>
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Capture1.PNG?raw=true "Screen Front View")
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Capture.PNG?raw=true "Screen Rear View")
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/1-2.jpg?raw=true "Raspberry Pi 3 Model-B")
 ### October 02, 2017
 Created [Budget](https://github.com/SaqibJaweed/Help-Line/blob/master/Budget.docx), to keep track on the project's affordability.
