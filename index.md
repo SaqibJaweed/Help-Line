@@ -26,15 +26,14 @@ Stay tuned for Videos, Pictures and Build instructions that are coming soon.
 ### November 10 2017
 PCB Board made and sodered.
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/20171018_154102.jpg?raw=true "Completed PCB board")
-<img src="https://github.com/SaqibJaweed/Help-Line/blob/master/20171018_154102.jpg" alt="Completed PCB board" width"350" height="350">
-![Sodering in progress!!!](https://github.com/SaqibJaweed/Help-Line/blob/master/20171018_153924.jpg)
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/20171018_153924.jpg?raw=true "Sodering in progress!!!")
 ### October 10, 2017
 Hardware Parts bought from KIJIJI  
             1. Raspberry Pi 3 Module B Kit  $30.00 <br>
             2. 3.5'' Touch Screen Module by [adafruit.com](https://www.adafruit.com/product/2097)  $20.00
-![Screen](https://github.com/SaqibJaweed/Help-Line/blob/master/Capture.PNG)
-![Screen2](https://github.com/SaqibJaweed/Help-Line/blob/master/Capture.PNG)
-![RPi3 Kit](https://github.com/SaqibJaweed/Help-Line/blob/master/1-2.jpg)
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Capture.PNG?raw=true "Screen Front View")
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Capture1.PNG?raw=true "Screen Rear View")
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/1-2.jpg?raw=true "Raspberry Pi 3 Model-B")
 ### October 02, 2017
 Created [Budget](https://github.com/SaqibJaweed/Help-Line/blob/master/Budget.docx), to keep track on the project's affordability.
 ### September 25, 2017
