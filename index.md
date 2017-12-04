@@ -16,7 +16,7 @@ The BME280 now reads and displays the humidity correctly.
 ### December 03 2017
 I had some time to kill today, so I tried to search of ways I can mirror my screen to another computer for remote access and also because writing code on a 3.5'' screen was very frustrating.
 
-Guess what!!! I downloaded teamviewer on my personal laptop and my Raspberry Pi from [here](https://www.teamviewer.com/en/download/) and followed the instructions [here](https://community.teamviewer.com/t5/Knowledge-Base/How-to-install-TeamViewer-Host-for-Linux/ta-p/6318) to get things to work. It works like a charm without any lag. This means, that I can use my laptop's screen to use the Raspberry Pi. The only catch is that both the devices have to be on-line.
+Guess what!!! I downloaded teamviewer on my personal laptop and my Raspberry Pi from [here](https://www.teamviewer.com/en/download/) and followed the instructions [here](https://community.teamviewer.com/t5/Knowledge-Base/How-to-install-TeamViewer-Host-for-Linux/ta-p/6318) to get things to work. It works like a charm without any lag. This means, that I can use my laptop's screen to use the Raspberry Pi. The only catch is that both the devices have to be on-line and due to security reasons, Terminal window can not be accessed through remote desktop and can only be accessed through the default display that is the 3.5'' TFT display.
 ### December 01 2017
 I have tested the PCB board that I sodered and it works fine. I ran the traffic2B program and saw the LED is blinking in the pattern (OFF-GREEN-OFF-ORANGE-OFF) and also ran the ghmain program, that reads the light and temperature sensors. <br>
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/GreenLight.jpg?raw=true "Green Light")<br>
