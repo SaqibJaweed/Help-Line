@@ -25,6 +25,7 @@ I used [this](https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for
 Stay tuned for Videos, Pictures and Build instructions that are coming soon.
 ### November 10 2017
 PCB Board made and sodered.
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/20171018_154102.jpg?raw=true "Completed PCB board")
 <img src="https://github.com/SaqibJaweed/Help-Line/blob/master/20171018_154102.jpg" alt="Completed PCB board" width"350" height="350">
 ![Sodering in progress!!!](https://github.com/SaqibJaweed/Help-Line/blob/master/20171018_153924.jpg)
 ### October 10, 2017
