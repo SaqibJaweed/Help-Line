@@ -13,7 +13,7 @@ Got my PCB Board tested by Vlad at the Prototype lab. It works Perfect!!!
 The Touch Screen is now Functional. Videos, Pictures and Build instructions comming soon.
 ### November 10 2017
 PCB Board made and sodered.
-[Sodering in progress!!!]{https://github.com/SaqibJaweed/Help-Line/blob/master/20171018_153924.jpg}
+![Sodering in progress!!!]{https://github.com/SaqibJaweed/Help-Line/blob/master/20171018_153924.jpg}
 ### October 10, 2017
 Hardware Parts bought from KIJIJI  
             1. Raspberry Pi 3 Module B Kit  $30.00 <br>
