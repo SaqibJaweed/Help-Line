@@ -10,9 +10,9 @@ Users can also lookup a product in store and once they are done shopping, they c
 ### December 03 2017
 I had some time to kill today, so I tried to search of ways I can mirror my screen to another computer for remote access and also because writing code on a 3.5'' screen was very frustrating.
 
-Guess what!!! I downloaded teamviewer on my personal laptop and my Raspberry Pi from [here](https://www.teamviewer.com/en/download/) and followed the instructions [here](https://community.teamviewer.com/t5/Knowledge-Base/How-to-install-TeamViewer-Host-for-Linux/ta-p/6318) to get things to work. It works like a charm without any lag. This means, that I can use my laptop's screen to use the Raspberry Pi. The only catch is that both the devices have to be on-line.
+Guess what!!! I downloaded teamviewer on my personal laptop and my Raspberry Pi from [here](https://www.teamviewer.com/en/download/) and followed the instructions [here](https://community.teamviewer.com/t5/Knowledge-Base/How-to-install-TeamViewer-Host-for-Linux/ta-p/6318) to get things to work. It works like a charm without any lag. :computer: This means, that I can use my laptop's screen to use the Raspberry Pi. The only catch is that both the devices have to be on-line.
 ### December 01 2017
-I have tested the PCB board that I sodered and it works fine. The LED is blinking and the the Sensors are reading.<br>
+I have tested the PCB board that I sodered and it works fine. The LED is blinking and the the Sensors are reading. :simple_smile: <br>
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/GreenLight.jpg?raw=true "Green Light")<br>
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Reader1.jpg?raw=true "Output")<br>
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Reader.jpg?raw=true "SenseHat Reader")<br>
@@ -43,4 +43,4 @@ Created [Budget](https://github.com/SaqibJaweed/Help-Line/blob/master/Budget.doc
 ### September 25, 2017
 Created [Gantt Chart](https://github.com/SaqibJaweed/Help-Line/blob/master/Gantt%20Chart.docx), that would help me to finish all tasks on defined time and stay on track.
 ### September 18, 2017
-Created [proposal](https://www.google.com/) for a 3.5'' TFT display. The display will be used as a default display for input and output.
+Created [proposal](https://github.com/SaqibJaweed/Help-Line/blob/master/ProposalContentStudentNameRev02.xlsx) for a 3.5'' TFT display. The display will be used as a default display for input and output.
