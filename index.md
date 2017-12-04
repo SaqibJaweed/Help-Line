@@ -13,6 +13,7 @@ Got my PCB Board tested by Vlad at the Prototype lab. It works Perfect!!!
 The Touch Screen is now Functional. Videos, Pictures and Build instructions comming soon.
 ### November 10 2017
 PCB Board made and sodered.
+![Completed](https://github.com/SaqibJaweed/Help-Line/blob/master/20171018_154102.jpg)
 ![Sodering in progress!!!](https://github.com/SaqibJaweed/Help-Line/blob/master/20171018_153924.jpg)
 ### October 10, 2017
 Hardware Parts bought from KIJIJI  
@@ -23,4 +24,4 @@ Created [Budget](https://github.com/SaqibJaweed/Help-Line/blob/master/Budget.doc
 ### September 25, 2017
 Created [Gantt Chart](https://github.com/SaqibJaweed/Help-Line/blob/master/Gantt%20Chart.docx)
 ### September 18, 2017
-Created [proposal](https://www.google.com/)
+Created [proposal](https://www.google.com/) for a 3.5'' TFT display. The display will be used as a 
