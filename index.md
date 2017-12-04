@@ -7,12 +7,18 @@ The Idea:
 I will work to make a touchscreen work with a raspberry pi 3. This project will let the user know His/Her position in line while he waits to get attention of a representative or an attendant.
 Users can also lookup a product in store and once they are done shopping, they can fill out an E-Survey using a simple and interactive touch screen.
 
+### December 04 2017
+We had to fix a minor issue in the printed circuit board so the sensord could work correctly.
+While Running the BME280.py code, I got the ImportError: No module named smbus but I was able to solve it by using the following command that installs the missing library. sudo apt install python-smbus
+<br>
+The BME280 now reads and displays the humidity correctly.
+
 ### December 03 2017
 I had some time to kill today, so I tried to search of ways I can mirror my screen to another computer for remote access and also because writing code on a 3.5'' screen was very frustrating.
 
 Guess what!!! I downloaded teamviewer on my personal laptop and my Raspberry Pi from [here](https://www.teamviewer.com/en/download/) and followed the instructions [here](https://community.teamviewer.com/t5/Knowledge-Base/How-to-install-TeamViewer-Host-for-Linux/ta-p/6318) to get things to work. It works like a charm without any lag. This means, that I can use my laptop's screen to use the Raspberry Pi. The only catch is that both the devices have to be on-line.
 ### December 01 2017
-I have tested the PCB board that I sodered and it works fine. The LED is blinking and the the Sensors are reading. <br>
+I have tested the PCB board that I sodered and it works fine. I ran the traffic2B program and saw the LED is blinking in the pattern (OFF-GREEN-OFF-ORANGE-OFF) and also ran the ghmain program, that reads the light and temperature sensors. <br>
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/GreenLight.jpg?raw=true "Green Light")<br>
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Reader1.jpg?raw=true "Output")<br>
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Reader.jpg?raw=true "SenseHat Reader")<br>
