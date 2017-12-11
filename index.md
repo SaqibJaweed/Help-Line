@@ -1,4 +1,3 @@
-
 TFT Display for Raspberry Pi 3
 ===============================
 
@@ -7,6 +6,11 @@ The Idea:
 
 I will work to make a touchscreen work with a raspberry pi 3. This project will let the user know His/Her position in line while he waits to get attention of a representative or an attendant.
 Users can also lookup a product in store and once they are done shopping, they can fill out an E-Survey using a simple and interactive touch screen.
+
+### December 11 2017
+
+# 30 Second Script
+"Hello everyone, my name is Saqib Jaweed Syed and I am working on a 3.5’’ Touch Screen as my hardware project. The Idea behind this project is to accept input from the user without the use of mouse and keyboard at a help desk kiosk. The project costed me about $60 and required almost 8 hours of work altogether. I feel very accomplished at this point as I have now, got it to work with more functionality then promised. For e.g. Screen Mirroring and Remote access. At this point though, I am anxiously waiting to couple it with Abhay’s PIR sensor and Guru’s RFID Reader next semester."
 
 ### December 04 2017
 We had to fix a minor issue in the printed circuit board so the sensord could work correctly.
