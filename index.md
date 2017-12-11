@@ -12,6 +12,11 @@ We had to fix a minor issue in the printed circuit board so the sensord could wo
 While Running the BME280.py code, I got the ImportError: No module named smbus but I was able to solve it by using the following command that installs the missing library. sudo apt install python-smbus
 <br>
 The BME280 now reads and displays the humidity correctly.
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Humidity.jpg?raw=true "Reading Humidity")<br><br><br>
+Output of ghmain:
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Light and Temp.jpg?raw=true "Reading L&T")<br>
+A picture of the back of my PCB Board to explain the changes I made to the original board.<br>
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Fixed Board.jpg?raw=true "Fixed Board")<br>
 
 ### December 03 2017
 I had some time to kill today, so I tried to search of ways I can mirror my screen to another computer for remote access and also because writing code on a 3.5'' screen was very frustrating.
