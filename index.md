@@ -61,3 +61,6 @@ Created [Budget](https://github.com/SaqibJaweed/Help-Line/blob/master/Budget.doc
 Created [Gantt Chart](https://github.com/SaqibJaweed/Help-Line/blob/master/Gantt%20Chart.docx), that would help me to finish all tasks on defined time and stay on track.
 ### September 18, 2017
 Created [proposal](https://github.com/SaqibJaweed/Help-Line/blob/master/ProposalContentStudentNameRev02.xlsx) for a 3.5'' TFT display. The display will be used as a default display for input and output.
+
+## Author
+* **Saqib Jaweed Syed** - [SaqibJaweed](https://github.com/SaqibJaweed)
