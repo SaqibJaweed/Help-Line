@@ -16,7 +16,7 @@ The BME280 now reads and displays the humidity correctly.
 Output of ghmain:<br>
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/T-L.jpg?raw=true "ReadingL&T")<br>
 A picture of the back of my PCB Board to explain the changes I made to the original board.<br>
-![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/PCB-fix.jpg?raw=true "PCB-fix")<br><br><br>
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/InkedPCB-fix.jpg?raw=true "PCB-fix")<br><br><br>
 
 ### December 03 2017
 I had some time to kill today, so I tried to search of ways I can mirror my screen to another computer for remote access and also because writing code on a 3.5'' screen was very frustrating.
