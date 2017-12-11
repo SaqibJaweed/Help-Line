@@ -14,9 +14,9 @@ While Running the BME280.py code, I got the ImportError: No module named smbus b
 The BME280 now reads and displays the humidity correctly.
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Humidity.jpg?raw=true "Reading Humidity")<br><br><br>
 Output of ghmain:
-![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Light and Temp.jpg?raw=true "Reading L&T")<br>
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/T%26L.jpg?raw=true "Reading L&T")<br>
 A picture of the back of my PCB Board to explain the changes I made to the original board.<br>
-![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Fixed Board.jpg?raw=true "Fixed Board")<br>
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/PCB%20fix.jpg?raw=true "PCB fix")<br>
 
 ### December 03 2017
 I had some time to kill today, so I tried to search of ways I can mirror my screen to another computer for remote access and also because writing code on a 3.5'' screen was very frustrating.
@@ -34,6 +34,8 @@ My screen even works when I install it over the PCB board.
 Got my PCB Board tested by Vlad at the Prototype lab. It works Perfect!!!
 ### November 20 2017
 The Touch Screen is now displaying and taking inputs. The whole process to get it to work took almost 6 to 8 hours.
+
+
 
 I used [this](https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi/easy-install) website for help and closely followed the steps.
 
