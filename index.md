@@ -9,7 +9,7 @@ Users can also lookup a product in store and once they are done shopping, they c
 
 ### December 11 2017
 
-*30 Second Script*
+*30 Second Script*<br>
 "Hello everyone, my name is Saqib Jaweed Syed and I am working on a 3.5’’ Touch Screen as my hardware project. The Idea behind this project is to accept input from the user without the use of mouse and keyboard at a help desk kiosk. The project costed me about $60 and required almost 8 hours of work altogether. I feel very accomplished at this point as I have now, got it to work with more functionality then promised. For e.g. Screen Mirroring and Remote access. At this point though, I am anxiously waiting to couple it with Abhay’s PIR sensor and Guru’s RFID Reader next semester."
 
 ### December 04 2017
