@@ -1,3 +1,4 @@
+
 TFT Display for Raspberry Pi 3
 ===============================
 
@@ -9,7 +10,10 @@ Users can also lookup a product in store and once they are done shopping, they c
 
 ### December 04 2017
 We had to fix a minor issue in the printed circuit board so the sensord could work correctly.
-While Running the BME280.py code, I got the ImportError: No module named smbus but I was able to solve it by using the following command that installs the missing library. sudo apt install python-smbus
+While Running the BME280.py code, I got the ImportError: No module named smbus but I was able to solve it by using the following command that installs the missing library.
+```
+sudo apt install python-smbus
+```
 <br>
 The BME280 now reads and displays the humidity correctly.
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Humidity.jpg?raw=true "Reading Humidity")<br><br><br>
