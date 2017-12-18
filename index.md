@@ -9,7 +9,7 @@ Users can also lookup a product in store and once they are done shopping, they c
 
 ### December 18 2017
 
-Please watch my 30 Second Video that shows my work done [here](https://youtu.be/JPZLsDThR3A)
+Please watch my 30 Second Video that shows my work done [on youtube](https://youtu.be/JPZLsDThR3A) or [here](https://github.com/SaqibJaweed/Help-Line/blob/master/final%20compressed.mp4)
 
 ### December 11 2017
 
