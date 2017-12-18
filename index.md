@@ -13,7 +13,7 @@ Please watch my 30 Second Video that shows my work done [on youtube](https://you
 
 ### December 11 2017
 
-Placard:<br>
+[Placard:](https://github.com/SaqibJaweed/Help-Line/blob/master/placard.pub)<br>
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/Publication2-1.jpg?raw=true "Placard")<br>
 
 **30 Second Script**<br>
