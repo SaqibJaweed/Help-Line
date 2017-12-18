@@ -15,11 +15,9 @@ Placard:<br>
 **30 Second Script**<br>
 "Hello everyone, my name is Saqib Jaweed Syed and I am working on a 3.5’’ Touch Screen that I bought from KIJIJI. I started with getting my PCB board printed and sodered to I could get my screen to work along with the Temperature, Humidity and Light sensor.  I feel very accomplished at this point as I have now, got it to work with more functionality then promised. For e.g. Screen Mirroring and Remote access. I found that the screen is more responsive to a stylus as compared to using with finger. At this point though, I am waiting for my custom 3D Printed Case and looking forward to couple it with Abhay’s PIR sensor and Guru’s RFID Reader next semester."
 
-**0s-10s:** Unpacking and Assembling<br>
-**11s-20s:** Powering on and Screen Mirroring<br>
-**21s-25s:** Difference between Finger vs Stylus<br>
-**26s-30s:** On-screen Keyboard Demo<br>
-
+**0s-12s:** Unpacking, Sodering and Assembling<br>
+**13s-29s:** Powering on screen and testing sensors on it<br>
+**30s-35s:** Difference between Finger vs Stylus<br>
 
 ### December 04 2017
 We had to fix a minor issue in the printed circuit board so the sensord could work correctly.
