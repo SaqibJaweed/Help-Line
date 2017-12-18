@@ -7,6 +7,10 @@ The Idea:
 I will work to make a touchscreen work with a raspberry pi 3. This project will let the user know His/Her position in line while he waits to get attention of a representative or an attendant.
 Users can also lookup a product in store and once they are done shopping, they can fill out an E-Survey using a simple and interactive touch screen.
 
+### December 18 2017
+
+Please watch my 30 Second Video that shows my work done [here](https://youtu.be/JPZLsDThR3A)
+
 ### December 11 2017
 
 Placard:<br>
