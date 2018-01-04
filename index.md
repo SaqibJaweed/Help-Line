@@ -9,8 +9,10 @@ Users can also lookup a product in store and once they are done shopping, they c
 ### January 03 2017
 
 I started to do my project again and saw that Adafruit has a Jessie based ISO image that I wrote on my SD card using a software called [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/files/latest/download).  The image that I found can be downloaded from https://drive.google.com/file/d/1LjGL4q_rgiJxwAZnhUNQZa28Kp7b6usB/view?usp=sharing. This will free us from the hastle of downloading the code.
-<br> This is how my project looks as of today.
-![Alt text](?raw=true "WithCase")<br>
+<br> This is how my project looks as of today.<br>
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/WithCase3.jpg?raw=true "WithCase3")
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/WithCase2.jpg?raw=true "WithCase1")
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/WithCase.jpg?raw=true "WithCase")
 
 ### December 22 2017
 
