@@ -6,7 +6,12 @@ The Idea:
 
 I will work to make a touchscreen work with a raspberry pi 3. This project will let the user know His/Her position in line while he waits to get attention of a representative or an attendant.
 Users can also lookup a product in store and once they are done shopping, they can fill out an E-Survey using a simple and interactive touch screen.
-### January 03 2017
+
+### January 06 2018
+
+This is my [Progress Report](https://github.com/SaqibJaweed/Help-Line/blob/master/Progress%20Report.docx) for week 10 and my project is ready for demo on January 08 2018
+
+### January 03 2018
 
 I started to do my project again and saw that Adafruit has a Jessie based ISO image that I wrote on my SD card using a software called [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/files/latest/download).  The image that I found can be downloaded from [https://drive.google.com/file/d/1LjGL4q_rgiJxwAZnhUNQZa28Kp7b6usB/view?usp=sharing](https://drive.google.com/file/d/1LjGL4q_rgiJxwAZnhUNQZa28Kp7b6usB/view?usp=sharing). This will free us from the hastle of downloading the code.
 <br> This is how my project looks as of today.<br>
