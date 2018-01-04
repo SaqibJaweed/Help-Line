@@ -16,11 +16,11 @@ I started to do my project again and saw that Adafruit has a Jessie based ISO im
 
 ### December 22 2017
 
-Today, I got my 3D printed case but while putting it together, I forgot to take the SD card out of the Raspberry Pi and ended up snapping it. Due to which I would now have to do everything from scratch. :-(
+Today, I got my 3D printed case but while putting it together, I forgot to take the SD card out of the Raspberry Pi and ended up snapping it. Due to which I would now have to buy another 16GB Micro SD card for $8 and do everything from scratch. :-(
 
 ### December 19 2017
 
-I found a 3D case [here](https://www.thingiverse.com/thing:2471701) and have sent the files to be printed.
+I found a 3D case [here](https://www.thingiverse.com/thing:2471701) and have sent the files to be printed. I went with the plug-friendly case as that allows the ports to come out of the case by 2mm so that they are more friendly to use and can be used with any kind of cable.
 
 ### December 18 2017
 
