@@ -44,7 +44,6 @@ These instructions will prepare you for the later steps and contain instruction 
 3.	Insert the SD card in the SD card slot carefully with the specified Raspbian image in it.
 4.	Connect the power supply cable to the Raspberry Pi and let it sit for 2 minutes for the first time and the display will turn on and start recognizing inputs.
 5.	As the screen is small, it is recommended to use it with a stylus.
-<br>
 ## Step 4.1: Extras
 <br>This part of the build instruction is only to be followed if you want to install your project in a 3D printed case:<br>
 1.	Download the files from
@@ -58,7 +57,6 @@ These instructions will prepare you for the later steps and contain instruction 
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/screen_install.jpg?raw=true "screen_install")
 7.	Fix the parts together with 8 2.5mm Allen head bolts 6-10mm but do not tighten too much as it might snap the plastic
 8.	That is it! All ports and screen should now be usable with Raspberry Pi and Screen sitting on a 45 degree angle from our face, secured in a case.
-<br>
 ## Unit Testing
 <br>The Project looks absolutely stunning and makes it easy for the users to interact with the Pi using the touch screen. Since I printed the plug Friendly version of my case, the ports stick out of the case by 2mm so that it is easily compatible with every kind of input/output cable.
 <br>
