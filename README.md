@@ -1,3 +1,4 @@
+
 # Hardware Build Guide
 This page describes the build process for 3.5`` Raspberry Pi 3 Model B touch screen, but the process is the same for any model starting from Raspberry Pi 2.
 <br>
@@ -63,3 +64,7 @@ These instructions will prepare you for the later steps and contain instruction 
 ## Production Testing
 With the .img file available in hand, we can avoid the hassle of downloading the display drivers through the Raspberry Pi which takes 4 hours, fails often and needs an active internet connection throughout the process.
 Considering if we have the files and software downloaded, we only need 30 minutes to reproduce the project. Imagine the speed in a case where you are producing 50 touchscreen computers in just over 24 hours.
+
+# References:
+https://www.thingiverse.com/thing:2471701
+https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi/easy-install
