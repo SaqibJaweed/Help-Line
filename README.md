@@ -1,5 +1,6 @@
-### Hardware Build Guide
+# Hardware Build Guide
 This page describes the build process for 3.5`` Raspberry Pi 3 Model B touch screen, but the process is the same for any model starting from Raspberry Pi 2.
+<br>
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/final_product.jpg?raw=true "final_product")
 <br>
 ## Step 0: Read these Instructions
@@ -12,11 +13,11 @@ The good thing about this project is that you only need to order a few things th
 
 2.	One PiTFT - Assembled 480x320 3.5" TFT + Touchscreen for Raspberry Pi from
 https://www.adafruit.com/product/2097
-
-QTY	DISCOUNT
-1-9	CA$44.95
-10-99	CA$40.46
-100+	CA$35.96
+<br>
+QTY	DISCOUNT<br>
+1-9	CA$44.95<br>
+10-99	CA$40.46<br>
+100+	CA$35.96<br>
 
 3.	One 16GB – 32GB class 10 Micro SD card from https://www.amazon.com/SanDisk-Ultra-Micro-Adapter-SDSQUNC-016G-GN6MA/dp/B010Q57SEE/ref=sr_1_6?s=pc&ie=UTF8&qid=1516559163&sr=1-6&keywords=micro+sd for CA$9.98
 
@@ -51,10 +52,10 @@ This part of the build instruction is only to be followed if you want to install
 2.	Send the files for 3D printing that will come out in 3 parts and will need a minimum of 4 hours to complete
 3.	You will need 12 2.5mm Allen head bolts 6-10mm long
 4.	Remove the SD card from the Raspberry Pi and install it in the middle printed part with 4 2.5mm Allen head bolts 6-10mm long as shown:
-5.	Break the mounting tabs from all 4 sides of the screen as follows and the install the screen on the Pi carefully and re-insert the SD card in the slot carefully.
+5.	Break the mounting tabs from all 4 sides of the screen as follows and the install the screen on the Pi carefully and re-insert the SD card in the slot carefully.<br>
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/tab_break.jpg?raw=true "tab_break")
-6.	Arrange the pieces as shown below:
-![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/pi_install.jpg?raw=true "pi_install")
+6.	Arrange the pieces as shown below:<br>
+![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/pi_install.jpg?raw=true "pi_install")<br>
 ![Alt text](https://github.com/SaqibJaweed/Help-Line/blob/master/screen_install.jpg?raw=true "screen_install")
 7.	Fix the parts together with 8 2.5mm Allen head bolts 6-10mm but do not tighten too much as it might snap the plastic
 8.	That is it! All ports and screen should now be usable with Raspberry Pi and Screen sitting on a 45 degree angle from our face, secured in a case.
