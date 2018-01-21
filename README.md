@@ -67,4 +67,5 @@ Considering if we have the files and software downloaded, we only need 30 minute
 
 # References:
 https://www.thingiverse.com/thing:2471701
+<br>
 https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi/easy-install
