@@ -8,7 +8,7 @@ I will work to make a touchscreen work with a raspberry pi 3. This project will 
 Users can also lookup a product in store and once they are done shopping, they can fill out an E-Survey using a simple and interactive touch screen.
 
 ### January 21 2018
-Please read the 
+Please read the [Build Instructions](https://github.com/SaqibJaweed/Help-Line/blob/master/README.md) and follow it carefully to make your own project.
 
 ### January 15 2018
 My [Presentation](https://github.com/SaqibJaweed/Help-Line/blob/master/Saqib%20Jaweed%20Syed.pptx) is ready and I will be presenting on the 22nd of January.
