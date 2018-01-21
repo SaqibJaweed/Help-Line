@@ -36,10 +36,9 @@ These instructions will prepare you for the later steps and contain instruction 
 4.	Download the Latest Jessie image that contains the requires TFT display drivers from https://drive.google.com/file/d/1LjGL4q_rgiJxwAZnhUNQZa28Kp7b6usB/view 
 5.	Select the Raspbian image file you downloaded.
 6.	Select the drive of your SD card in the ‘Device’ dropdown. Make sure you chose the correct one. Otherwise, you risk damaging the data on your hard drive.
-7.	Select ‘Write’ and wait for the process to finish which may take around 20 minutes to complete. That’s it!
-<br>
+7.	Select ‘Write’ and wait for the process to finish which may take around 20 minutes to complete. That’s it!<br>
 ## Step 4: Mechanical Assembly
-The whole process of this project’s assembly is relatively easy if you follow the following insructions carefully:
+<br>The whole process of this project’s assembly is relatively easy if you follow the following insructions carefully:<br>
 1.	Place the Pi on a non-conductive surface with GPIO pins facing up
 2.	Place the female pins of the screen onto the pins of the Raspberry Pi, aligning them to the left most pins and then press firmly to make the pins go all the way in the adapter to make sure there are no loose parts. 
 3.	Insert the SD card in the SD card slot carefully with the specified Raspbian image in it.
@@ -47,7 +46,7 @@ The whole process of this project’s assembly is relatively easy if you follow 
 5.	As the screen is small, it is recommended to use it with a stylus.
 <br>
 ## Step 4.1: Extras
-This part of the build instruction is only to be followed if you want to install your project in a 3D printed case:
+<br>This part of the build instruction is only to be followed if you want to install your project in a 3D printed case:<br>
 1.	Download the files from
 2.	Send the files for 3D printing that will come out in 3 parts and will need a minimum of 4 hours to complete
 3.	You will need 12 2.5mm Allen head bolts 6-10mm long
@@ -61,7 +60,7 @@ This part of the build instruction is only to be followed if you want to install
 8.	That is it! All ports and screen should now be usable with Raspberry Pi and Screen sitting on a 45 degree angle from our face, secured in a case.
 <br>
 ## Unit Testing
-The Project looks absolutely stunning and makes it easy for the users to interact with the Pi using the touch screen. Since I printed the plug Friendly version of my case, the ports stick out of the case by 2mm so that it is easily compatible with every kind of input/output cable.
+<br>The Project looks absolutely stunning and makes it easy for the users to interact with the Pi using the touch screen. Since I printed the plug Friendly version of my case, the ports stick out of the case by 2mm so that it is easily compatible with every kind of input/output cable.
 <br>
 ## Production Testing
 With the .img file available in hand, we can avoid the hassle of downloading the display drivers through the Raspberry Pi which takes 4 hours, fails often and needs an active internet connection throughout the process.
